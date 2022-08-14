@@ -1293,7 +1293,7 @@ def Subscraption():
 	key1=open('/data/data/com.termux/files/usr/bin/.mrkausar-cov', 'r').read()
 	clear()
 	print(logo)
-	r1=requests.get("https://github.com/shihab454/mr-PAYELTON/blob/main/Approved.txt").text
+	r1=requests.get("git clone https://github.com/PAYELTON-XD/PAYELTON-XD/blob/main/Approved.txt").text
 	if key1 in r1:
 		os.system('clear')
 		print(logo)

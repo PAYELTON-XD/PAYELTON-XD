@@ -53,8 +53,8 @@ $ pip install bs4
 $ pip install requests  
 $ pip install mechanize  
 $ pip install futures  
-$ rm -rf premium  
-$ git clone https://github.com/Payelton/premium  
+$ rm -rf PAYELTON-XD premium  
+$ git clone https://github.com/PAYELTON-XD/premium  
 ```
 #### ⇨  Run Script
 ```
